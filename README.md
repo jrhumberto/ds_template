@@ -1,5 +1,10 @@
 # template_ds_project
 
+## References
++ https://medium.com/@kaislar17/mlops-my-favorite-github-project-template-for-data-science-projects-2edda25099cd
++ https://medium.com/@kaislar17/genenate-your-github-repository-structure-in-seconds-with-cookiecutter-829a57b71f5e
+
+
 <p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
@@ -13,6 +18,7 @@
 </div>
 
 ---
+
 
 
 ## 🧐 About <a name = "about"></a>
